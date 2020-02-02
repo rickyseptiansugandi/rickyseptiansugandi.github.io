@@ -1,1 +1,3 @@
-Hellow
+<?php
+echo $_GET['code'];
+?>
