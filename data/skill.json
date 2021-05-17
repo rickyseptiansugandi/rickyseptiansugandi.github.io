@@ -1,0 +1,27 @@
+{
+	"programming":[
+		{"name": "Javascirpt", "point": "100"},
+		{"name": "HTML", "point": "100"},
+		{"name": "CSS", "point": "100"},
+		{"name": "JQUERY", "point": "90"},
+		{"name": "TypeScript", "point": "80"},
+		{"name": "Angular", "point": "80"},
+		{"name": "Mysql", "point": "95"},
+		{"name": "PHP", "point": "100"},
+		{"name": "Node JS (Express Framework)", "point": "95"},
+		{"name": "Code Igniter (PHP FrameWork)", "point": "80"},
+		{"name": "Boostrap (Framework UI)", "point": "90"},
+		{"name": "Jqwidgets (Framework UI)", "point": "90"},
+		{"name": "Flutter (Android / IOS)", "point": "80"}
+	],
+	"os":[
+		{"name": "Microsoft Window", "point": "100"},
+		{"name": "Linux", "point": "95"}
+	],
+	"multimedia":[
+		{"name": "Microsoft Word", "point": "90"},
+		{"name": "Microsoft Excel", "point": "90"},
+		{"name": "Microsoft Power Point", "point": "90"},
+		{"name": "Photo Shop", "point": "70"}
+	] 
+}

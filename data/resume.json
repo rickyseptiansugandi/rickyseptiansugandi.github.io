@@ -1,0 +1,12 @@
+{
+	"pendidikanformal":[
+		{"jurusan": "Sekolah Menengah Pertama","nama":"SMPN 3 Padalarang, Bandung Barat", "tahun": "2004 - 2007"},
+		{"jurusan": "Sekolah Menengah Atas","nama":"SMAN 1 Padalarang, Bandung Barat", "tahun": "2007 - 2010"},
+		{"jurusan": "Diploma 3 Manajemen Informatika","nama":"Politeknik Piksi Ganesha (D3), Bandung", "tahun": "2010 - 2013"}
+	],
+	"pengalamankerja":[
+		{"jurusan": "Staff Sistem Informasi / IT Software & Staff Pengajar","nama":"Politeknik Piksi Ganesha", "tahun": "2014 - 2015"},
+		{"jurusan": "FullStack Developer","nama":"RG Software", "tahun": "2015 - 2016"},
+		{"jurusan": "Staff Application Developer","nama":"Ganesha Operation", "tahun": "2016 - Sekarang"}
+	]
+}
